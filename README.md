@@ -9,3 +9,5 @@ Simple API Rest Full using Swagger Open Api For document
 ```bash
 npm install
 ```
+
+Article for more documentation : [Documenting a Node.js REST API using Swagger](https://www.section.io/engineering-education/documenting-node-js-rest-api-using-swagger/)

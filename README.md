@@ -1,4 +1,6 @@
-### Simple Node.js REST API.
+### Express.js api swagger docs
+
+Simple API Rest Full using Swagger Open Api For document
 
 - Ensure you have [Node.js](https://nodejs.org/en/) installed on your computer.
 
@@ -7,5 +9,3 @@
 ```bash
 npm install
 ```
-
-- Consume the API from [Postman](https://www.postman.com/)
